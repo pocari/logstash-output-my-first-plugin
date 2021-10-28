@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.licenses      = ['Apache-2.0']
   s.summary       = 'Write a short summary, because Rubygems requires one.'
   s.description   = 'Write a longer description or delete this line.'
-  s.homepage      = 'Put your plugin''s website or public repo URL here.'
+  s.homepage      = 'https://github.com/pocari/logstash-output-my-first-plugin'
   s.authors       = ['']
   s.email         = ''
   s.require_paths = ['lib']
